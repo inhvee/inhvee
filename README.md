@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 😊About Me
+## 😊 About Me
 - 데이터 분석과 백엔드 개발 분야의 전문가를 희망해 열심히 유영하고 있습니다.🐠
 - 시간에 상관없이 포기하지 않고 오류를 해결하며 깊게 배우는 과정을 즐깁니다.
 - 모든 과정에서 의미를 찾으며 함께👯 성장하는 것에 관심이 많습니다.
