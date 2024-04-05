@@ -35,8 +35,6 @@
 
 ### # 정보처리기사 자격증 스터디 서비스 (2024/3/20 ~ 2024/4/4)
 - https://github.com/chaeyoun9/dookong/edit/master/README.md
-  
-![시연페이퍼_두콩두콩_fix](https://github.com/chaeyoun9/dookong/assets/156051073/edcc5053-d47c-4dc5-8325-b6bb55ccef85)
 
 <details>	
    <summary>서비스 소개</summary>
@@ -157,7 +155,6 @@
 ### # 낯선 사람의 퀴즈 (2024/1/30 ~ 2024/2/1)
 - https://github.com/krafjin56/SurviveProject
 
-![mini1](https://github.com/krafjin56/krafjin56/assets/157596156/82462050-75c6-4e61-a454-ccadd9b573be)
 <details>	
    <summary> 프로젝트 소개</summary>
    <br/>
