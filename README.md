@@ -37,7 +37,7 @@
 - https://github.com/chaeyoun9/dookong/edit/master/README.md
 
 <details>	
-   <summary>서비스 소개</summary>
+   <summary><h4>서비스 소개<h4></summary>
    <br/>
  <ul>
    <li>서비스명 : 정보처리기사 자격증 취득을 위한 스터디 및 대시보드 서비스</li>
@@ -46,7 +46,7 @@
   </details>
 
   <details>	
-   <summary>주요 기능</summary>
+   <summary><h4>주요 기능<h4></summary>
    <br/>
  <ul>
    <li>회원가입</li>
@@ -58,7 +58,7 @@
   </details>
 
   <details>	
-   <summary>기술스택</summary>
+   <summary><h4>기술스택<h4></summary>
    <br/>
 <table>
     <tr>
@@ -126,7 +126,7 @@
   </details>
 
    <details>	
-   <summary>팀 내 역할</summary>
+   <summary><h4>팀 내 역할<h4></summary>
    <br/>
  <ul>
    <li>Front-end : 화면 설계</li>
@@ -136,7 +136,7 @@
   </details>
 
   <details>	
-   <summary>느낀점</summary>
+   <summary><h4>느낀점<h4></summary>
    <br/>
  <ul>
    <li>java servlet과 jsp에 대해 깊게 학습할 수 있었음</li>
@@ -144,7 +144,7 @@
   </details>
 
    <details>	
-   <summary>참고 자료</summary>
+   <summary><h4>참고 자료<h4></summary>
    <br/>
  <ul>
    <li>플라스크 : https://blog.naver.com/goldpig2020/223198929126</li>
@@ -156,7 +156,7 @@
 - https://github.com/krafjin56/SurviveProject
 
 <details>	
-   <summary> 프로젝트 소개</summary>
+   <summary> <h4>프로젝트 소개<h4></summary>
    <br/>
  <ul>
    <li>상, 중, 하 난이도의 넌센스 퀴즈를 맞추는 게임입니다.<br>
@@ -167,7 +167,7 @@
   </details>
   
   <details>	
-   <summary> 🎮 게임 룰 </summary>
+   <summary> <h4>🎮 게임 룰<h4> </summary>
    <br/>
  <ul>
    <li>1. 회원가입을 해줍니다.<br>
@@ -182,7 +182,7 @@
  </details>
   
 <details>	
-   <summary> 팀 내 역할</summary>
+   <summary><h4> 팀 내 역할<h4></summary>
    <br/>
  <ul>
    <li>팀장 (총괄 PM)</li>
