@@ -170,7 +170,7 @@
   </details>
   
   <details>	
-   <summary> 🎮게임 룰 </summary>
+   <summary> 🎮 게임 룰 </summary>
    <br/>
  <ul>
    <li>1. 회원가입을 해줍니다.<br>
@@ -193,8 +193,3 @@
    <li>발표</li>
  </ul>
   </details>
-
-
-
-
-  
