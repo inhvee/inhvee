@@ -12,13 +12,13 @@
 - Blog : https://blog.naver.com/ampm___
 
 ## ⛏️ Skills 
-# Back-End
+### Back-End
 - Java
 - Java Servlet
 - Visual Studio Code
 
-# DataBase
+### DataBase
 - Oracle 
 
-# Front-End
+### Front-End
 - Html/Css
