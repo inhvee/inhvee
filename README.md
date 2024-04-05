@@ -18,10 +18,11 @@
 - Visual Studio Code
 
 ### DataBase
-- Oracle 
+- Oracle DB
 
 ### Front-End
 - Html/Css
+- Java Script 
 
 ### UI/UX
 - Figma
