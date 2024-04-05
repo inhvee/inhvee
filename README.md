@@ -6,4 +6,19 @@
 - 모든 과정에서 의미를 찾으며 함께👯 성장하는 것에 관심이 많습니다.
 - 동료들이 즐겁게 협업에 임할 수 있도록 이끌어주는 리더이자 좋은 팔로워가 되고 싶습니다.
   
-- 블로그 : https://blog.naver.com/ampm___
+## 🌍 Contact&Channel
+- Email : dogidghktks@naver.com
+- Github : https://github.com/inhvee
+- Blog : https://blog.naver.com/ampm___
+
+## ⛏️ Skills 
+# Back-End
+- Java
+- Java Servlet
+- Visual Studio Code
+
+# DataBase
+- Oracle 
+
+# Front-End
+- Html/Css
