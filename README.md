@@ -29,3 +29,6 @@
   
 ### Collaboration
 - Github
+
+## Presentation & Article
+1. 낯선 사람의 퀴즈 https://github.com/krafjin56/SurviveProject
