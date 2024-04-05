@@ -31,6 +31,7 @@
 - Github
 
 ## 🖥️ Presentation & Article
+----
 
 ### # 정보처리기사 자격증 스터디 서비스 (2024/3/20 ~ 2024/4/4)
 - https://github.com/chaeyoun9/dookong/edit/master/README.md
@@ -151,8 +152,8 @@
    <li>플라스크 : https://blog.naver.com/goldpig2020/223198929126</li>
    <li> gpt api : https://velog.io/@yule/OpenAI-API-%EB%B0%9C%EA%B8%89 </li>
   </details>
-<br>
    
+   ----
 ### # 낯선 사람의 퀴즈 (2024/1/30 ~ 2024/2/1)
 - https://github.com/krafjin56/SurviveProject
 
@@ -161,9 +162,9 @@
    <summary> 프로젝트 소개</summary>
    <br/>
  <ul>
-   <li>**상, 중, 하** 난이도의 넌센스 퀴즈를 맞추는 게임입니다.<br>
+   <li>상, 중, 하 난이도의 넌센스 퀴즈를 맞추는 게임입니다.<br>
 각각의 난이도에 따라 차등 점수가 누적되어 누적된 점수를 기준으로 <br>
-**브론즈/ 실버/ 골드/ 다이아/ 챌린저**로 나누어집니다.</li>
+브론즈/ 실버/ 골드/ 다이아/ 챌린저로 나누어집니다.</li>
   
  </ul>
   </details>
@@ -192,7 +193,6 @@
    <li>발표</li>
  </ul>
   </details>
-
 
 
 
