@@ -31,4 +31,11 @@
 - Github
 
 ## 🖥️ Presentation & Article
-### 1. 🧟‍♀️ 낯선 사람의 퀴즈 https://github.com/krafjin56/SurviveProject
+### 스마트인재개발원
+<details>	
+   <summary>낯선 사람의 퀴즈</summary>
+   <br/>
+ <ul>
+   <li>https://github.com/krafjin56/SurviveProject</li>
+ </ul>
+  </details>
