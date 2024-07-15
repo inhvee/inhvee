@@ -33,6 +33,10 @@
 ## 🖥️ Presentation & Article
 ----
 
+### # AI 기반 돼지 객체 자세 분석 서비스 (2024/5/27 ~ 2024/06/20)
+- https://github.com/2023-SMHRD-KDT-AI-16/PIGMATE_repo
+----
+
 ### # 정보처리기사 자격증 스터디 서비스 (2024/3/20 ~ 2024/4/4)
 - https://github.com/chaeyoun9/dookong/edit/master/README.md
 
@@ -190,3 +194,5 @@
    <li>발표</li>
  </ul>
   </details>
+
+  
